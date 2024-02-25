@@ -1,0 +1,1 @@
+Checkout Promise  is a feature that helps seller to sell their product through trust and it shows that how genuine is the seller. Through that buyer can identify the product. eg:- Flipkart assured, Shiprocket checkout promise and Shopify promise. 
